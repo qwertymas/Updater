@@ -1,4 +1,4 @@
 
-<Version: 0.16b>
+<Version: 1.01>
 /data/Map002.json https://raw.githubusercontent.com/qwertymas/Updater/master/Map002.json
 <End of Version>
